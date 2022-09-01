@@ -4,4 +4,4 @@ NPM     : 2106751612
 
 Kelas   : B
 
-Hobi    : Menonton
+Hobi    : Menonton Netflix
